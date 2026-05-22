@@ -1,0 +1,5 @@
+path: C:\Users\asusr\OneDrive\Desktop\for_coding\yolo\test2\dataset\data
+train: images/train
+val: images/val
+names:
+  0: matricule

@@ -1,0 +1,9 @@
+.agents/
+.codex/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Original archive is over GitHub's normal 100 MB file limit.
+analytique/data/CNN-20260522T221659Z-3-001.zip
